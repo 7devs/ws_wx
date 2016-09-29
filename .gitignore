@@ -27,6 +27,5 @@ build/Release
 node_modules
 
 
-lib/config.js
-lib/config/menu.json
+
 .DS_Store
